@@ -1,0 +1,13 @@
+.svn/
+*.class
+*.jar
+*.war
+*.ear
+
+src/config.txt
+e HEAD
+
+#忽略gradle和build文件夹
+build/
+.gradle/
+gradle/

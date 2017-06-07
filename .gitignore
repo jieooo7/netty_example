@@ -1,6 +1,6 @@
 .svn/
 *.class
-*.jar
+#*.jar
 *.war
 *.ear
 
